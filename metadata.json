@@ -1,0 +1,6 @@
+{
+  "name": "Analytics Dashboard",
+  "description": "A production-grade, full-stack analytics platform featuring high-performance event ingestion, real-time live visitor tracking via Server-Sent Events, multi-step funnel analysis, and detailed user session exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
